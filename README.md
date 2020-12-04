@@ -16,3 +16,10 @@ HTL,CSS and Javascript
 Incase of any issues on the website, Feel free to contact me through Phone:+254702182472,Email:koechkipz03@gmail.com
 ### License
 *Copyright (c) koechkipz03@gmail.com **ICT Authority**
+
+<img src="https://github.com/amoskipz/Portfolio-Kiprotich/blob/gh-pages/images/moringa1.png">
+
+<img src="https://github.com/amoskipz/Portfolio-Kiprotich/blob/gh-pages/images/moringa2.png">
+
+<img src="https://github.com/amoskipz/Portfolio-Kiprotich/blob/gh-pages/images/moringa3.png">
+
