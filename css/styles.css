@@ -37,12 +37,13 @@ html{
       background-color: #1e1e1e;
       padding: 20px;
       text-align: center;
+      margin: 0;
     }
     .container_bio {
         background: #373737;
         padding: 0 20px;
         text-align: center;
-        margin: 20px 0;
+        margin:0;
       }
       .container_bio h2 {
         text-align: center;
@@ -62,7 +63,7 @@ html{
       }
       .container_projects {
         padding: 15px;
-        margin: 20px 0;
+        margin:0;
       }
       .container_projects h2 {
         text-transform: uppercase;
@@ -134,7 +135,7 @@ html{
         background-color: #414141;
         border-radius: 4.5px;
         width: 100%;
-        margin: 0 0 10px 0;
+        margin:0;
       }
       #contact>ul>li{
         list-style-type: none;
@@ -152,7 +153,7 @@ html{
         background-color: #414141;
         height: 300px;
         padding: 8px;
-        margin: 30px 0;
+        margin:0;
         text-align: center;
       }
       .container_tasks:hover {
