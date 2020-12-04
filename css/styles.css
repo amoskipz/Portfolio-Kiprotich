@@ -97,7 +97,7 @@ html{
         border: 1px solid #444444;
       }
       .container_heroimage {
-        background: url("/images/amos.gif");
+        background: url("../images/amos.gif");
         background-size: cover;
         background-attachment: fixed;
         height: 560px;
