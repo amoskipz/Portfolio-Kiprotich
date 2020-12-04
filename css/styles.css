@@ -1,0 +1,180 @@
+*{
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+  }
+  .container_navbarmenu {
+      width: 100%;
+      margin: 0;
+    }
+    .container_navbarmenu ul {
+      background-color: #414141;
+      text-align: right;
+      list-style-type: none;
+      margin: 0;
+      padding: 26px;
+      overflow: hidden;
+    }
+    .container_navbarmenu ul li {
+      text-transform: uppercase;
+      display: inline;
+      padding: inherit;
+    }
+    .container_navbarmenu ul li a {
+      text-decoration: none;
+      text-align: center;
+      padding: 15px 13px;
+      color: #fff;
+      display: inline;
+    }
+    .container_navbarmenu ul li:hover {
+      background-color: #0ebbd3;
+      transition: all 0.5s ease-in-out;
+    }
+    
+    .container_footer {
+      background-color: #1e1e1e;
+      padding: 20px;
+      text-align: center;
+    }
+    .container_bio {
+        background: #373737;
+        padding: 0 20px;
+        text-align: center;
+        margin: 20px 0;
+      }
+      .container_bio h2 {
+        text-align: center;
+        text-transform: uppercase;
+        padding: 20px 0;
+      }
+      .container_bio p {
+        text-align: center;
+        padding: 15px;
+      }
+      .container_bio div {
+        padding: 20px 0;
+      }
+      .container_bio div img {
+        border-radius: 50%;
+        border: #0fcce6 2.5px solid;
+      }
+      .container_projects {
+        padding: 15px;
+        margin: 20px 0;
+      }
+      .container_projects h2 {
+        text-transform: uppercase;
+        text-align: center;
+      }
+      .container_projects ul {
+        padding: 10px;
+        text-align: center;
+        margin: 0;
+      }
+      .container_projects ul h3 {
+        padding: 10px;
+        border-radius: 5px;
+        background: #585858;
+      }
+      .container_projects ul li {
+        list-style-type: none;
+        background: #444444;
+        margin: 20px 0;
+        padding: 30px;
+        text-align: center;
+        display: inline-block;
+      }
+      body {
+        background: wheat;
+        color: #fff;
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      }
+      
+      hr {
+        width: 100%;
+        border: 1px solid #444444;
+      }
+      .container_heroimage {
+        background: url("/images/amos.gif");
+        background-size: cover;
+        background-attachment: fixed;
+        height: 560px;
+        padding: 10px;
+        margin: 0;
+        text-align: center;
+      }
+      .container_heroimage:hover {
+        transition: all 0.5s ease-in-out;
+        box-shadow: 0 3.5px 8px 0 #494949;
+      }
+      .container_heroimage h1 {
+        padding: 20px 0 0 0;
+      }
+      .container_heroimage h1 span {
+        color: #0fcce6;
+      }
+      .container_heroimage button {
+        padding: 25px;
+        background: inherit;
+        width: 200px;
+        margin: 240px 0;
+        border: #0fcce6 2.5px solid;
+        border-radius: 10px;
+        color: white;
+        font-size: 20px;
+      }
+      .container_heroimage button:hover {
+        transition: all 0.5s ease-in-out;
+        background: #0fcce6;
+      }
+      #contact {
+        display: inline-flex;
+        background-color: #414141;
+        border-radius: 4.5px;
+        width: 100%;
+        margin: 0 0 10px 0;
+      }
+      #contact>ul>li{
+        list-style-type: none;
+        padding: 10px;
+      }
+      #contact:hover {
+        transition: all 0.5s ease-in-out;
+        box-shadow: 0 3.5px 8px 0 #494949;
+      }
+ .container_heroimage, .container_tasks, .container_bio, .container_projects,.container_projects ul li {
+        border-radius: 3.5px;
+        box-shadow: 0 3.5px 8px 0 #161616;
+      }
+      .container_tasks {
+        background-color: #414141;
+        height: 300px;
+        padding: 8px;
+        margin: 30px 0;
+        text-align: center;
+      }
+      .container_tasks:hover {
+        transition: all 0.5s ease-in-out;
+        box-shadow: 0 3.5px 8px 0 #494949;
+      }
+      .container_tasks h2 {
+        text-transform: uppercase;
+        text-align: center;
+      }
+      .container_tasks ul {
+        padding: 70px;
+      }
+      .container_tasks ul li {
+        list-style: none;
+        box-shadow: 0 3.5px 8px 0 rgba(0, 0, 0, 0.2);
+        background-color: #4e4e4e;
+        display: inline;
+        border-radius: 5px;
+        padding: 50px;
+        margin: 15px;
+      }
+      .container_projects h2{
+          color:steelblue;
+      }
