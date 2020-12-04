@@ -178,3 +178,9 @@ html{
       .container_projects h2{
           color:steelblue;
       }
+      .container_bio div img:hover {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+        -webkit-transition: all 0.5s cubic-bezier(1, 0, 1, 0.5);
+        transition: all 0.5s cubic-bezier(1, 0, 1, 0.5);
+      }
