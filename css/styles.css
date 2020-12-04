@@ -186,7 +186,7 @@ html{
         transition: all 0.5s cubic-bezier(1, 0, 1, 0.5);
       }
       a{
-        text-emphasis:bold;
+        font-style: italic;
         color: steelblue;
       }
       a:hover {
